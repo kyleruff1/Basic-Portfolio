@@ -1,0 +1,31 @@
+head    {
+    background-color: black;
+    text-decoration-color: bisque;
+    width: 900px;
+}
+h1      {
+    background-color: black;
+    height: 100px;
+    color: aliceblue;
+    width: 900px;
+    text-align: center;
+    border-color: aliceblue;
+    border: 1px;
+    border-style: groove;
+
+}
+body    {
+    background-color: black;
+    color: white;
+}
+
+.top    {
+    width: 300px;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: left;
+}
+
+.top2   {
+    width: 900px;
+}
