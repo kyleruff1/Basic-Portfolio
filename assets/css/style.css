@@ -12,11 +12,30 @@ h1      {
     border-color: aliceblue;
     border: 1px;
     border-style: groove;
+    margin-left: 25%;
 
 }
+
+.contact    {
+    float: right;
+    width: 10%;
+    height: 5%;
+    border-style: solid;
+
+}
+
+.portfolio    {
+    float: right;
+    width: 10%;
+    height: 5%;
+    border-style: solid;
+
+}
+
 body    {
     background-color: black;
     color: white;
+    size: 960px;
 }
 
 .top    {
