@@ -49,28 +49,35 @@ body    {
 }
 
 .text-block   {
-    padding-left: 10%;
-    padding-right: 10%;
-    margin-top: 0px;
-    margin-left: 10%;
-    margin-right: 10%;
-    width: 80%;
-    align: center;
-    background-color: #050505;
-    height: 960px;
-    justify-self: center;
-
+    size: 100%;
+    align: left;
 }
 
 .text       {
     margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
+    align: center;
+    background-color: #f4f7f6;
+    background-image: url("https://www.transparenttextures.com/patterns/cardboard-flat.png");
+    height: 960px;
+    justify-self: left;
+    border-top-style: groove;
+    border-top-color: #d8dad9#eee;
+
+}
+.text2       {
+    margin-top: 2%;
     margin-left: 10%;
     margin-right: 10%;
+    margin-bottom: 2%;
     width: 60%;
     align: center;
-    background-color: #4aaaa5;
+    background-color: #f4f7f6;
     height: 960px;
     justify-self: center;
+    
 
 }
 
