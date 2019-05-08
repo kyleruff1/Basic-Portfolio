@@ -4,6 +4,7 @@ head    {
     margin-top: 0px;
     margin-left: 0px;
     background-color:#eeeeee#fff;
+    align: center;
 }
 
 h1               {
@@ -13,39 +14,63 @@ h1               {
     padding-top: 25px;  
     padding-bottom: 25px;
     width: 180px;
-    margin-left: 15%;
+    margin-left: 33%;
     margin-top: 0px;
     margin-bottom: 0px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: xxx-large;
-    color-interpolation-filters: inherit;
     color: #eeeeee;
     font-style: oblique;
     background-color: #eeeeee#fff;
 }
 .buttons    {
     float: right;
-    margin-top: -1.5%;
-    margin-right: 10px;
+    padding-right: 25px;
+    margin-top: -3.5%;
+    margin-right: 33%;
     margin-bottom: 25px;
+    position: relative;
     color: #050505#fff;
     background-color: #eeeeee#fff;
 }
 
 body    {
-    display: block;
-    object-position: center;
-    background-color: #eeeeee#fff;
+    background-color: whitesmoke;
     margin-top: 0px;
-    border-color:  #666666#666;
-    border-style: solid;
-    color: #f7fdfd#fff;
+    color: #050505;
     background-color: #eeeeee#fff;
+    width: 100%;
 }
 .pictures   {
     height: 250%;
     width: auto;
     background-color: #eeeeee#fff;
+
+}
+
+.text-block   {
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 0px;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    align: center;
+    background-color: #050505;
+    height: 960px;
+    justify-self: center;
+
+}
+
+.text       {
+    margin-top: 0px;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 60%;
+    align: center;
+    background-color: #4aaaa5;
+    height: 960px;
+    justify-self: center;
 
 }
 
