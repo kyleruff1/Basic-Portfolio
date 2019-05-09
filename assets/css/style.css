@@ -11,6 +11,12 @@ h1      {
     font-family: 'Georgia', Times, Times New Roman, serif;
 
 }
+
+a:link      {
+    color: gray;
+    text-decoration: none;
+
+}
 .h1top               {
     height: 100%;
     background-color:  #4aaaa5;
@@ -27,16 +33,20 @@ h1      {
 }
 
 .buttonblock  {
-    margin-right: 150px;
+    margin-right: 100px;
     position: relative;
     color: gray;
     font-family: arial, Arial, Helvetica, sans-serif;
+    text-decoration: none;
+ 
 }
 .buttons    {
     float: right;
     padding-right: 50px;
+    margin-right: -50px;
     margin-top: -40px;
     margin-bottom: 25px;
+    word-spacing: 25px;
     position: relative;
     color: gray;
     background-color: #eeeeee#fff;
@@ -51,6 +61,7 @@ body    {
     color: #050505;
     background-color: #eeeeee#fff;
     width: 100%;
+    
 }
 .pictures   {
     height: auto;
@@ -88,7 +99,7 @@ body    {
     width: 85%;
     align: center;
     background-color: #ffffff;
-    height: 90%;
+    height: 80%;
     justify-self: center;
     border-style: groove;
     border-color: #dddddd;
@@ -153,9 +164,10 @@ menu       {
     font-weight: bolder;
 }
 
-footer {
+footer      {
+    margin-top: -5%;
     background-color: #666666;
-    height: 200px;
+    height: 80px;
     margin-bottom: 0%;
 
 }
