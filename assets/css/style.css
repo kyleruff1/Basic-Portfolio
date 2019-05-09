@@ -147,9 +147,10 @@ img     {
     margin-bottom: 10px;
     
 }
-.bio2       {
+menu       {
     margin-top: 1%;
     margin-left: 5px;
+    font-weight: bolder;
 }
 
 footer {
@@ -187,3 +188,6 @@ input[type=text], select, textarea {
     padding: 20px;
   }
   
+  #midbioheader     {
+      margin-left: 5px;
+  }
