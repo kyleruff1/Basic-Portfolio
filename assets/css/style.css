@@ -30,6 +30,7 @@ h1      {
     margin-right: 150px;
     position: relative;
     color: gray;
+    font-family: arial, Arial, Helvetica, sans-serif;
 }
 .buttons    {
     float: right;
@@ -39,7 +40,7 @@ h1      {
     position: relative;
     color: gray;
     background-color: #eeeeee#fff;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: arial, Arial, Helvetica, sans-serif;
 
 }
 
@@ -143,13 +144,15 @@ img     {
     word-wrap: normal;
     padding-top: 0%;
     padding-left: 210px;
+    margin-bottom: 10px;
     
 }
 .bio2       {
+    margin-top: 1%;
     margin-left: 5px;
 }
 
-.footer {
+footer {
     background-color: #666666;
     height: 200px;
     margin-bottom: 0%;
