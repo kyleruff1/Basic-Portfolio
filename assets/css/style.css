@@ -220,3 +220,8 @@ input[type=text], select, textarea {
      color: red;
      background-color: red;
  }
+ .small {
+    opacity: 100%;
+    color: red;
+    background-color: red;
+}
