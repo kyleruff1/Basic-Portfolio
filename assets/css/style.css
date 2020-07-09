@@ -203,4 +203,11 @@ input[type=text], select, textarea {
   #midbioheader     {
       margin-left: 5px;
   }
-  
+  .imiwidget {
+      color: red;
+      background-color: sandybrown;
+  }
+  .widgetlogo {
+      color: red;
+      background-color: salmon;
+  }
