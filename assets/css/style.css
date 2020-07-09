@@ -214,3 +214,9 @@ input[type=text], select, textarea {
  #aSendicon {
      background-color: salmon;
  }
+
+ .popup-head {
+     opacity: 100%;
+     color: red;
+     background-color: red;
+ }
